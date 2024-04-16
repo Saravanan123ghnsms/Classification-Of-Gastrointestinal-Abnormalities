@@ -1,6 +1,6 @@
 # Classification of Gastrointestinal Abnormalities
 
-![Gastric Cancer](gastric_cancer_image.jpg)
+
 
 ## Overview
 
